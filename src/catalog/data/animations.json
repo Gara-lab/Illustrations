@@ -1,0 +1,7 @@
+[
+  { "id": "none", "name": "None" },
+  { "id": "fade", "name": "Fade" },
+  { "id": "slide-up", "name": "Slide up" },
+  { "id": "slide-left", "name": "Slide left" },
+  { "id": "zoom", "name": "Zoom" }
+]

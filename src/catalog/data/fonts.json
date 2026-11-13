@@ -1,0 +1,7 @@
+[
+  { "family": "Inter", "category": "sans", "files": [{ "weight": 400, "file": "inter-regular.woff2" }, { "weight": 700, "file": "inter-bold.woff2" }] },
+  { "family": "Poppins", "category": "display", "files": [{ "weight": 400, "file": "poppins-regular.woff2" }, { "weight": 700, "file": "poppins-bold.woff2" }] },
+  { "family": "Playfair Display", "category": "display", "files": [{ "weight": 400, "file": "playfair-display-regular.woff2" }, { "weight": 700, "file": "playfair-display-bold.woff2" }] },
+  { "family": "Lora", "category": "serif", "files": [{ "weight": 400, "file": "lora-regular.woff2" }, { "weight": 700, "file": "lora-bold.woff2" }] },
+  { "family": "JetBrains Mono", "category": "mono", "files": [{ "weight": 400, "file": "jetbrains-mono-regular.woff2" }, { "weight": 700, "file": "jetbrains-mono-bold.woff2" }] }
+]
