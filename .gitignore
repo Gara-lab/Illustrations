@@ -1,0 +1,16 @@
+node_modules/
+dist-web/
+dist/
+release/
+exports/
+scratch/
+.venv/
+.node_env/
+.vscode/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
